@@ -1,3 +1,5 @@
 # Notas sobre investigación reproducible y análisis de datos 
 ## Reproductividad
-###### El término __repro__
+...
+
+###### El término **reproductibilidad** 
